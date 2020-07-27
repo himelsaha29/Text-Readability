@@ -1,5 +1,4 @@
 # Text-Readability
-
 Usage: python readability.py
 
 This program finds out the grade for which a text is appropriate. Longer words and longer sentencess correlate to higher reading levels. Lower reading levels otherwise.
